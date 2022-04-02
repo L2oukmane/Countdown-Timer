@@ -2,6 +2,8 @@
 
 > Countdown Timer is simple application being built were you are able to see a CountDown Timer showing the days, hours, minutes and seconds.
 
+click [here](https://l2oukmane.github.io/Countdown-Timer/) to see deployed live version
+
 ### Features implemented so far are:
 
 - Responsive HTML page
