@@ -34,16 +34,29 @@ ul{
 h1{
     color:#f03b6d;
     font-size:56px;
-    margin-top:-300px;
+    margin-top:-70px;
    
 }
 
 li{
-    font-size:30px;
+    font-size:35px;
     margin:20px 30px;
-    font-weight:200;
+    font-weight:500;
 }
 
 .count{
     font-weight: 800;
+    font-size:50px;
+}
+
+.quote{
+    font-size:40px;
+    font-weight: 900;
+    color:#1729f5;
+    width:80%;
+    text-align: center;
+    border:  2px solid #1729f5;
+    border-radius:16px;
+    background-color: #fff;
+    opacity: 0.9;
 }
