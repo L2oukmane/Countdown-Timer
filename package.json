@@ -1,0 +1,33 @@
+{
+  "name": "Countdown-Timer",
+  "version": "1.0.0",
+  "description": "> Countdown Timer is simple application being built were you are able to see a CountDown Timer showing the days, hours, minutes and seconds.",
+  "main": "script.js",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint": "^7.32.0",
+    "eslint-plugin-import": "^2.25.4",
+    "hint": "^6.1.11"
+  },
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L2oukmane/Countdown-Timer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L2oukmane/Countdown-Timer/issues"
+  },
+  "homepage": "https://github.com/L2oukmane/Countdown-Timer#readme"
+}
