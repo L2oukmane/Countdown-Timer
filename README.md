@@ -1,6 +1,6 @@
 # Countdown Timer
 
-> Countdown Timer is simple application being built were you are able to see a CountDown Timer showing the days, hours, minutes and seconds.
+> Countdown Timer is simple application being built were you are able to see a Timer showing the days, hours, minutes and seconds related to a specific Event (New Year Event).
 
 click [here](https://l2oukmane.github.io/Countdown-Timer/) to see deployed live version
 
